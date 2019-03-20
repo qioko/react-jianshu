@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "data": {
+    "topicList":[{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl":"//upload-images.jianshu.io/upload_images/6874403-374657499f5e959a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id":2,
+      "title": "我的",
+      "imgUrl":"//upload-images.jianshu.io/upload_images/6874403-374657499f5e959a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }],
+    "articleList":[{
+      "id":1,
+      "title":"8张乍一看“很美”，仔细看又让人恐惧的照片，你敢和深渊对视吗？",
+      "imgUrl":"//upload-images.jianshu.io/upload_images/14920271-0ef2d9089fffa5d1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+      "content":"一个海洋探测器拍到的照片，一只小海豹出现在镜头，在海滩上人畜无害的“小精灵”，在海洋里怎么这么瘆人呢？ 你望着深渊，深渊也在望着你，这是一座倒在..."
+    }],
+    "recommendList":[{
+      "id":1,
+      "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+    },{
+      "id":2,
+      "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-3-ddcc844ebdd8edca2d93b7ea5a8de79e.png"
+    }]
+  }
+}

@@ -1,0 +1,1 @@
+export const SHOW_INIT_DETAIL = 'detail/SHOW_INIT_DETAIL'
